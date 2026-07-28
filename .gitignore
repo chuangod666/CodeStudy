@@ -5,6 +5,9 @@
 # Compiled class files
 out/
 
+# Claude Code config
+.claude/
+
 # OS files
 .DS_Store
 Thumbs.db
